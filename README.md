@@ -1,6 +1,5 @@
 # xin_bot
-[![Powered by Wechaty](https://img.shields.io/badge/Powered%20By-Wechaty-green.svg)](https://wechaty.js.org)
-[![Wechaty Contributor Program](https://img.shields.io/badge/Wechaty-Contributor%20Program-green.svg)](https://wechaty.js.org/docs/contributor-program)   
+[![Powered by Wechaty](https://img.shields.io/badge/Powered%20By-Wechaty-brightgreen.svg)](https://wechaty.js.org)  
 基于wechaty社区的python-wechaty开发的一款娱乐性质的机器人。
 # 主要功能
 * B站视频分享链接自动解析功能 
