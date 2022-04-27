@@ -46,7 +46,7 @@ os.environ['TOKEN'] = "uuid"   # wechaty-puppet-padlocal中使用的uuid
 os.environ['WECHATY_PUPPET_SERVICE_ENDPOINT'] = "ip:port"  # wechaty-puppet-padlocal中设置的ip和端口
 ```
 # 启动方法
-运行shell目录下的pad_env.sh，启动启动Padlocal网关服务  
+* 运行shell目录下的pad_env.sh，启动启动Padlocal网关服务  
 ```bash
 ./shell/pad_env.sh
 ```
