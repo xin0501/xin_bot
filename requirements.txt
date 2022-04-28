@@ -1,0 +1,5 @@
+bilibili_api==9.1.0
+loguru==0.6.0
+requests==2.26.0
+wechaty==0.8.37
+wechaty_puppet==0.4.5
